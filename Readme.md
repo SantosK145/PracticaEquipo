@@ -19,3 +19,8 @@ Distribucion
 - Index
 - Clasificacion y Genero
 - Desarrolladores y Plataformas
+
+Crear carpetas
+- public
+- css
+- images
