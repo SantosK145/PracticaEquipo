@@ -8,3 +8,8 @@ Actualizacion de cambios
 - Se agregaron funciones de control del juego
 - Se agregaron varios botones y se crearon varias carpetas
 Listo para hacer merge desde index
+
+Actualizacion
+- Se realizo merge a feature/game para traer todos los archivos
+- Rama de feature/game completa
+- Cambios actualizados
